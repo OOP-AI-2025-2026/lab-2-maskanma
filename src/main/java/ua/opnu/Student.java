@@ -1,3 +1,5 @@
+package ua.opnu;
+
 public class Student {
     String name;
     int year;
